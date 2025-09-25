@@ -1,4 +1,4 @@
-# 👨‍💻 Shlok Srivastava Portfolio.  
+# 👨‍💻 Shlok Srivastava Portfolio.   
 
 A modern, responsive personal portfolio website showcasing my work, skills, and experience as a Full Stack Web Developer.
 
